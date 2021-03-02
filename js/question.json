@@ -1,0 +1,41 @@
+[{
+    "question": "Inside which HTML element do we put the JavaScript?", 
+    "choice1": "<Script>",
+    "choice2": "<Script>",
+    "choice3": "<Script>",
+    "choice4": "<Script>",
+    "answer": 1
+}, 
+{
+    "question": "What is the correct syntax for referring to an external script called 'xx.js'?", 
+    "choice1": "<Script href='xxx.js'>",
+    "choice2": "<Script name='xxx.js'>",
+    "choice3": "<Script src='xxx.js'>",
+    "choice4": "<Script file='xxx.js'>",
+    "answer": 3
+}, 
+{
+    "question": "What is ICT?", 
+    "choice1": "Information Technology",
+    "choice2": "Information Communication",
+    "choice3": "Info Communicate",
+    "choice4": "Information Communication and Technology",
+    "answer": 4
+}, 
+{
+    "question": "What is UPS?", 
+    "choice1": "UPS",
+    "choice2": "Uninterrupted Power Supply",
+    "choice3": "Info Communicate",
+    "choice4": "Power Supply",
+    "answer": 2
+}, 
+{
+    "question": "What is the Meaning of CPU", 
+    "choice1": "Central Processing Unit",
+    "choice2": "Processing Unit",
+    "choice3": "Unit",
+    "choice4": "Monitoring Unit",
+    "answer": 1
+}
+]

@@ -1,0 +1,19 @@
+MCQS 
+
+//Question No #1
+
+What does Html stand for ?
+a. Hyperlinks and Text Markup Language 
+b. Hyper Text Markup Language
+c. Hyper Text Marking Language 
+d. Hyper Text Mark Language
+1
+
+//Question No #2
+
+What does CSS stand for?
+a. Colorful StyleSheet
+b. Creative Style Sheet 
+c. Cascading Style Sheet 
+d. Computer Style Sheet 
+2
