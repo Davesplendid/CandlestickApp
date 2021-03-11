@@ -15,19 +15,19 @@ let availableQuestions = [];
 
 let questions = [
     {
-        question: "Inside which HTML element do we put the JavaScript?", 
-        choice1: "<Script>",
-        choice2: "<Script>",
-        choice3: "<Script>",
-        choice4: "<Script>",
-        answer: 1
+        question: "What is Computer Software?", 
+        choice1: "Software is a set of instruction given to the computer",
+        choice2: "Software is a set of instrcution given to the computer to make it function",
+        choice3: "It is an electronic device",
+        choice4: "It is a PC ",
+        answer: 2
     }, 
     {
-        question: "What is the correct syntax for referring to an external script called 'xx.js'?", 
-        choice1: "<Script href='xxx.js'>",
-        choice2: "<Script name='xxx.js'>",
-        choice3: "<Script src='xxx.js'>",
-        choice4: "<Script file='xxx.js'>",
+        question: "UNIX is used where?", 
+        choice1: "Disk ",
+        choice2: "Joystick",
+        choice3: "Mainframe Computer",
+        choice4: "CD",
         answer: 3
     }, 
     {
@@ -54,11 +54,51 @@ let questions = [
         choice4: "Monitoring Unit",
         answer: 1
     }, 
+    {
+        question: "Wires used for connecting various components of computer together is called ", 
+        choice1: "Central Processing Unit",
+        choice2: "Processing Unit",
+        choice3: "Unit",
+        choice4: "Computer Cables",
+        answer: 4
+    }, 
+    {
+        question: "A computer network cable is called ", 
+        choice1: "Interanet",
+        choice2: "Router",
+        choice3: "Ethernet",
+        choice4: "DSTV",
+        answer: 3
+    }, 
+    {
+        question: "What manages, manintains and controls computer?", 
+        choice1: "UI",
+        choice2: "Utility Software",
+        choice3: "CPU",
+        choice4: "Monitoring Unit",
+        answer: 2
+    }, 
+    {
+        question: "Windows 2000 or Window NT is used where?", 
+        choice1: "Central Processing Unit",
+        choice2: "System",
+        choice3: "Minicomputer",
+        choice4: "Microcomputer",
+        answer: 4
+    }, 
+    {
+        question: "What is the full meaning DOS", 
+        choice1: "Disk Operating System",
+        choice2: "Done Open the System",
+        choice3: "Do open the system",
+        choice4: "Desktop Operating System ",
+        answer: 1
+    }, 
 ];
 
 //CONSTANTS
 const CORRECT_BONUS = 2;
-const MAX_QUESTIONS = 5;
+const MAX_QUESTIONS = 10;
 
 startGame = () => {
     questionCounter = 0;
