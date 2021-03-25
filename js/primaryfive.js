@@ -112,7 +112,7 @@ choice4: "Pointer",
 answer: 1
 },
 {
-question: "Mouse can be used for selecting or moving  __ , ___, and ____?" ,
+question: "Mouse can be used for selecting or moving  __ , ___, ___and ____?" ,
 choice1: "icons, files, folders" ,
 choice2: "dust, water, Lens",
 choice3: "Port, Cables and Keys",
@@ -172,17 +172,18 @@ choice4: "A mobile browser Application",
 answer: 4
 },
 {
-        question: "What is Computer Software?", 
-        choice1: "Software is a set of instruction given to the computer",
-        choice2: "Software is a set of instrcution given to the computer to make it function",
-        choice3: "It is an electronic device",
-        choice4: "It is a PC ",
-        answer: 2
+    question: "What is Computer Software?", 
+    choice1: "Software is a set of instruction given to the computer",
+    choice2: "Software is a set of instrcution given to the computer to make it function",
+    choice3: "It is an electronic device",
+    choice4: "It is a PC ",
+    answer: 2
     }, 
+
 ];
 
 //CONSTANTS
-const CORRECT_BONUS = 1;
+const CORRECT_BONUS = 2;
 const MAX_QUESTIONS = 20;
 
 startGame = () => {
